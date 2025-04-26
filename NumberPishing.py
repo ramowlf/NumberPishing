@@ -1,6 +1,6 @@
 import telebot
 
-ramowlf = "6801818710:AAHhOpRKt3l7z6EL0cZdumvA-ltxwyuDhH4"
+ramowlf = "Bot token gir"
 ramazan = telebot.TeleBot(ramowlf)
 
 id = kendi idni veya chat idsi
